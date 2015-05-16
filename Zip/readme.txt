@@ -1,3 +1,7 @@
+jad
+eclipse反编译class的插件
+使用参照图片
+
 spket-1.6.23.zip
 eclipse编写Javascript的提示插件
 使用说明：
