@@ -1,0 +1,12 @@
+安装客户端(不是gitforwindows时需要做如下操作)后，执行以下操作完成设置
+1.运行git shell，输入git config --global user.name "yourname"回车
+2.输入git config --global user.email "youremail@xx.xxx"(这里输入的是你的github的账户邮箱)
+3.生成钥匙和锁，执行ssh-keygen -t rsa -C your_email@youremail.com ，连续回车
+4.打开c:/users/用户名/.ssh文件夹，用记事本打开id_rsa.pub文件，登录github网站在账户设置中找到SSH public Keys,将内容拷贝进去
+5.在git shell中输入 ssh -T git@github.com ，如果成功，会显示欢迎字符。
+6.创建一个远程库，在网站上登录github账户，点击Repostitories new，随意取名，例如：hello
+7.创建本地库，命名要与远程库名称一致
+8.绑定本地库和远程库，输入 git remote add origin git@github.com:你的用户名/hello.git
+
+
+
