@@ -1,0 +1,99 @@
+db:
+http://blog.csdn.net/liujiahan629629/article/details/23129119  --DB优化总结
+
+http://www.cnblogs.com/yjf512/archive/2012/10/09/2717102.html --mysql查询方法比较
+http://kb.cnblogs.com/page/82986/ --mysql查询
+
+http://blog.csdn.net/colorado/article/details/5132954  --oracle常用查询语句
+
+
+frame:
+http://shaohan126448.iteye.com/blog/2033563  --spring+springMVC+ibatis实例
+http://www.cnblogs.com/archie2010/archive/2011/03/03/1969940.html ibatis+spring注解注入
+http://blog.csdn.net/aking21alinjuju/article/details/6031737 --ibatis框架介绍
+http://blog.csdn.net/xwygn/article/details/8145372  --ibatis配置文件详解
+http://www.ylzx8.cn/zonghe/open-source/242375.html  --ibatis源码学习
+http://blog.csdn.net/not_a_baby/article/details/6752719  --ibatis实例学习
+http://blog.csdn.net/not_a_baby/article/details/6752719  --ibatis基础1
+http://www.cnblogs.com/java-pan/archive/2012/03/21/ibatis.html  --ibatis基础2
+http://blog.163.com/sparkle_tiangz/blog/static/1175902032009913114827188/  --ibatis学习笔记一
+http://blog.csdn.net/chjttony/article/details/6026078  --ibatis学习笔记
+http://blog.csdn.net/runming56/article/details/7877878  --ibatis学习总结（包含api介绍）
+http://blog.sina.com.cn/s/blog_3c62c21f01012l1f.html  --ibatis学习总结
+http://www.iteye.com/topic/49365  --ibatis学习总结（介绍参数含义）
+http://blog.163.com/lll_lq_ok/blog/static/7496271820114133524945/  --ibatis学习（介绍参数含义）
+http://pf-miles.iteye.com/blog/82348  --ibatis映射小结
+http://www.cnblogs.com/yeahking/articles/2480781.html  --ibatis配置文件详解
+http://blog.csdn.net/prince2270/article/details/5998160  --ibatis文件配置详解
+http://blog.csdn.net/etttttss/article/details/8902125 --mybatis3配置文件结构
+http://blog.csdn.net/huzheaccp/article/details/7399124/  --mybatis入门学习
+http://blog.csdn.net/techbirds_bao/article/details/9233599/  --mybatis入门到精通
+http://blog.csdn.net/hupanfeng/article/details/9068003  --深入浅出mybatis
+http://blog.csdn.net/hsp1990/article/details/21030921  --spring+ibatis实例（包含大字段的处理）
+http://blog.csdn.net/dyllove98/article/details/8604147  --mybaits整合spring实例（详细注释）
+http://blog.csdn.net/liujiahan629629/article/details/21655007  --springMVC深入学习
+http://blog.csdn.net/zhang6622056/article/details/8521686  --spring+springMVC+Hibernate实例
+
+http://www.iteye.com/topic/1136145  --spring+springMVC+myBatis实例
+http://www.iteye.com/topic/1081739  --springMVC+JQuery实例
+http://aijuans.iteye.com/blog/2160141 --springMVC4常用注解
+http://www.iteye.com/topic/1072244  --spring+springMVC+JQuery实例
+http://www.iteye.com/topic/615413  --spring事物配置
+
+http://blog.csdn.net/liujiahan629629/article/details/22696031  --spring注解开发
+http://www.iteye.com/topic/1121784  --spring注解实现依赖注入
+http://www.douban.com/note/71602488/  --spring注解讲解
+http://www.cnblogs.com/penguin-panda/archive/2011/07/09/2101787.html  --spring注解详解
+http://www.cnblogs.com/dynasty/archive/2012/01/29/2331359.html --spring3.0注解
+http://blog.csdn.net/wangshfa/article/details/9712379  --spring注解总结
+http://www.blogjava.net/ldwblog/archive/2013/03/21/396786.html  --spring注解使用问题
+http://blog.sina.com.cn/s/blog_6698c0940101hah8.html  --springMVC注解版基础
+http://www.2cto.com/kf/201504/388184.html  --spring整合springMVC实例
+http://blog.csdn.net/wangshfa/article/details/9712379  --spring注解总结
+http://www.cnblogs.com/xdp-gacl/p/3495887.html --spring常用注解
+
+http://blog.csdn.net/liujiahan629629/article/details/22696589  --struts2注解开发
+
+
+front:
+http://blog.csdn.net/liujiahan629629/article/details/22901047  --JQuery插件使用小结
+
+other:
+https://b.alipay.com/order/techService.htm --支付宝接口
+http://ifeve.com/  --并发编程
+
+http://www.360doc.com/content/14/0117/16/15109633_345989312.shtml  --eclipse Maven配置和使用
+http://www.blogjava.net/amigoxie/archive/2014/05/31/414287.html --eclipse项目模板
+
+http://lancijk.iteye.com/blog/815054--java实现一个账号不能同时登陆
+http://tomfish88.iteye.com/blog/971255 --java获取当前类路径
+
+http://blog.csdn.net/liujiahan629629/article/details/8174297 --面向对象需求分析
+
+http://blog.csdn.net/zhangxy221/article/details/6626196 --ICE介绍
+http://blog.csdn.net/Colorado/article/category/626517  --ICE学习
+https://zeroc.com/chat/javascript.html  --ICEChat_javascript_client
+http://blog.csdn.net/biexf/article/details/6089566 -- ICE java实例
+http://zhangjunhd.blog.51cto.com/113473/25475 --JMF提取音频、视频
+http://blog.csdn.net/a352193394/article/details/7330632  --JMF提取音频、视频
+
+http://blog.csdn.net/zhangxs_3/article/category/625599 --JMS学习
+http://blog.csdn.net/wl_ldy/article/details/7884534 --JMS入门学习
+http://blog.csdn.net/aking21alinjuju/article/details/6051421 --JMS概念介绍
+http://uule.iteye.com/blog/2108989  --JMS分布式例子
+http://www.open-open.com/lib/view/open1416379570867.html  --Spring发送和接受JMS消息
+
+http://szcs10138456.iteye.com/blog/1009182  --如何使用maven构建项目
+http://www.cnblogs.com/xfspeed/archive/2007/07/20/825675.html --使用maven管理项目lib
+
+
+http://javacrazyer.iteye.com/blog/759485  --JNDI全面总结
+http://redsnow-fenglin.iteye.com/blog/761153 --关于JNDI
+
+http://blog.csdn.net/liujiahan629629/article/details/8236870 --设计模型6大原则
+
+http://blog.csdn.net/liujiahan629629/article/details/9103093  --javascript基础
+
+http://blog.csdn.net/liujiahan629629/article/details/9569935  --svn使用介绍
+
+http://blog.csdn.net/liujiahan629629/article/details/23291853 --JBPM总结
