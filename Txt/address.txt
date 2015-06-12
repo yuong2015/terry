@@ -1,4 +1,5 @@
 http://ifeve.com/  --并发编程网
+http://www.cnblogs.com/linjiqin/p/3431835.html  --JQuery验证框架说明
 
 db:
 http://blog.csdn.net/liujiahan629629/article/details/23129119  --DB优化总结
@@ -119,3 +120,7 @@ http://developer.51cto.com/art/201403/432095.htm --java并发
 http://blog.csdn.net/hanshileiai/article/details/6690012  --外部代用内部类的方法
 
 http://www.haoservice.com/docs/5  --ip定位地址接口
+
+http://www.cnblogs.com/xdp-gacl/p/3855702.html --session失效解决方案
+
+http://www.cnblogs.com/javaTest/archive/2012/06/18/2589296.html --javascript/jquery实现即时聊天
